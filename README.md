@@ -12,7 +12,7 @@ This program is a chat server using WebSockets, enabling clients to connect, sen
 
 1. **Clone the repository**: `git clone https://github.com/your-username/projectClass.git`
 2. **Install dependencies**: `npm install`
-3. **Run the server**: `node server.js`
+3. **Run the server**: `node index.js`
 4. **Configure ip to connect in client** : `const exampleSocket = new WebSocket("ws://192.168.57.1:8080"); (line4 js/index.js)`
 5. **Connect WebSocket clients to**: `ws://localhost:8080`
 
